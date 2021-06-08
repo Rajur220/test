@@ -4,7 +4,6 @@ Created on Wed May 12 13:18:27 2021
 
 @author: Raju
 """
-#thiss
 #This is just the import packages
 import sys
 import numpy as np # linear algebra
