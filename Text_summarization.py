@@ -34,7 +34,12 @@ from pickle import dump,load
 print("hello")
 
 print("hi")
+<<<<<<< HEAD
 print("new3change")
+=======
+print("new change")
+print("change from upstream")
+>>>>>>> 1f770fb58f9d3909b9269b7c12a763cfbbf1e5e7
 
 class LoadData:
     def __init__(self, directory):
