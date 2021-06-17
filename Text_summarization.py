@@ -32,7 +32,7 @@ import string
 from pickle import dump,load
 
 
-
+print("hi")
 
 class LoadData:
     def __init__(self, directory):
