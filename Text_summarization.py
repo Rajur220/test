@@ -34,6 +34,7 @@ from pickle import dump,load
 print("hello")
 
 print("hi")
+print("new change")
 
 class LoadData:
     def __init__(self, directory):
